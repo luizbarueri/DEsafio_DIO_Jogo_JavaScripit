@@ -1,0 +1,20 @@
+{
+  "name": "desafio_dio_jogo_javascripit",
+  "version": "1.0.0",
+  "description": "Criando um Jogo com JavaScript usando JQuery, desafio Digital Innovation One, Janeiro de 2022.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizbarueri/DEsafio_DIO_Jogo_JavaScripit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizbarueri/DEsafio_DIO_Jogo_JavaScripit/issues"
+  },
+  "homepage": "https://github.com/luizbarueri/DEsafio_DIO_Jogo_JavaScripit#readme"
+}
